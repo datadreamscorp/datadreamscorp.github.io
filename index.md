@@ -7,3 +7,4 @@ title: "anthrocult"
 ##### Anthropology / Cognitive Science
 ###### Phd Student @ Cognitive and Information Sciences, UC Merced
 
+![photo](/img/website_photo.png)
