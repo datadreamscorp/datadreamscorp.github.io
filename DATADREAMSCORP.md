@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Alejandro Pérez Velilla"  
+title: "about"  
 permalink: /about/contact/
 ---
 
