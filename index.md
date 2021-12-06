@@ -9,8 +9,5 @@ title: "anthrocult"
 
 ![photo](/img/website_photo.png)
 
-contact: aperezvelilla@ucmerced.edu
-
-\\
-
+contact: aperezvelilla@ucmerced.edu  
 twitter: apvelilla
