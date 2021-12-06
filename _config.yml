@@ -1,3 +1,5 @@
+name: anthrocult
+title: null
 plugins:
   - jekyll-relative-links
 relative_links:
@@ -13,5 +15,3 @@ include:
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
   
-  name: anthrocult
-  title: null
