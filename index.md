@@ -8,7 +8,7 @@ title: "anthrocult"
 ###### Phd Student @ Cognitive and Information Sciences, UC Merced
 ###### Guest researcher @ Department of Human Behavior, Ecology and Culture, MPI-EVA
 
-![photo](/img/website_photo.png)
+![photo](/img/website_photo_50.png)
 
 contact: aperezvelilla@ucmerced.edu  
 twitter: apvelilla
