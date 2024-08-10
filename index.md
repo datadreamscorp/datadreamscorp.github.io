@@ -21,6 +21,4 @@ Please contact me if you have any questions about my work or just want to have a
 ![photo](/img/field_photo.png)
 
 contact: aperezvelilla@ucmerced.edu  
-twitter: apvelilla
-
 [github](https://github.com/datadreamscorp)
