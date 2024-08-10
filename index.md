@@ -4,7 +4,7 @@ title: "anthrocult"
 ---
 
 ### Alejandro Pérez Velilla
-##### Anthropology / Behavioral & Cognitive Science
+##### Anthropology / Cognitive Science
 ###### PhD Candidate @ Cognitive and Information Sciences, UC Merced
 ###### Guest researcher @ Department of Human Behavior, Ecology and Culture, MPI-EVA
 ###### Member of [Sanguatsiniq](https://sanguatsiniq.github.io/)
