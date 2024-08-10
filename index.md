@@ -18,7 +18,7 @@ My current projects, which are part of my PhD dissertation, deal with two broad 
 
 Please contact me if you have any questions about my work or just want to have a chat. I hope you have a lovely day.
 
-![photo](/img/arctic_photo.png)
+![photo](/img/field_photo.png)
 
 contact: aperezvelilla@ucmerced.edu  
 twitter: apvelilla
