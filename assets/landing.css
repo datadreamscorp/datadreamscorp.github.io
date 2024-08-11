@@ -1,55 +1,54 @@
-/* Ensure that html and body take full height and can use flex properties effectively */
-html, body {
-    height: 100%;
-    margin: 0;
-    padding: 0;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-}
-
-/* Container that holds all the content to be centered */
+/* General styles that apply to both mobile and desktop */
 .landing-container {
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    width: 100%;
+    text-align: center;
+    min-height: 100vh;
+    padding: 20px;
 }
 
 .text-and-image {
     display: flex;
-    flex-direction: column;
+    flex-direction: column; /* Stacks items vertically on desktop as well */
     align-items: center;
-    margin-bottom: 20px; /* Space between the image and the language links */
+    margin-bottom: 20px;
 }
 
 .text-and-image img {
-    max-width: 90%; /* Responsive image width */
-    height: auto; /* Maintain aspect ratio */
-    margin-top: 20px; /* Space between name and image */
+    max-width: 50%; /* Larger viewports can have a larger max-width */
+    margin-top: 20px; /* Ensures spacing between name and image */
 }
 
 nav ul {
     list-style-type: none;
     padding: 0;
-    margin: 0; /* Ensures nav is tightly wrapped around its contents */
 }
 
 nav ul li {
     display: inline;
-    margin: 0 10px; /* Spacing between language links */
+    margin: 0 20px;
 }
 
 nav ul li a {
     text-decoration: none;
     color: #0066cc;
-    font-size: 1.5em; /* Larger text for better readability */
+    font-size: 1.2em; /* Slightly larger font for desktop */
 }
 
 nav ul li a:hover {
     text-decoration: underline;
+}
+
+/* Media Query for Desktop Screens */
+@media (min-width: 768px) {
+    .text-and-image {
+        flex-direction: row; /* Side by side on larger screens */
+        justify-content: space-around; /* Distributes space evenly around items */
+    }
+    .text-and-image img {
+        max-width: 30%; /* Adjust based on preference */
+    }
 }
 
