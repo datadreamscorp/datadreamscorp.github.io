@@ -1,50 +1,65 @@
-/* Base styles for the landing container */
+/* Base reset for margin and padding */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body {
+    height: 100%;
+    width: 100%;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+/* Container for all content to center everything properly */
 .landing-container {
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    text-align: center;
-    min-height: 100vh;
-    width: 100%;
-    padding: 20px;
-    position: relative;
-    top: -20px; /* Adjust to bring content closer to the top */
+    min-height: 100vh; /* This will make sure that the container is at least the height of the viewport */
+    width: 100%; /* Full width */
 }
 
 /* Base styles for text and image */
 .landing-container h2 {
-    font-size: 2.25em; /* Adjusted for desktop view */
-    margin-bottom: 15px;
+    font-size: 3em; /* Larger font size for better visibility */
     color: #333;
+    margin: 0.5em 0; /* Uniform margin for top and bottom */
 }
 
 .landing-container img {
-    max-width: 90%; /* Larger width for the image */
-    height: auto;
-    margin-top: 10px;
+    width: 50%; /* Standard width for image */
+    height: auto; /* Maintain aspect ratio */
+    margin-top: 20px; /* Space between name and image */
 }
 
-/* Media query for mobile devices specifically */
+/* Responsive adjustments */
 @media (max-width: 768px) {
-    .landing-container {
-        top: -10px; /* Shift content slightly higher on mobile */
-    }
-
     .landing-container h2 {
-        font-size: 1.75em; /* Smaller font size on mobile */
-        margin-bottom: 10px; /* Less space below the header */
+        font-size: 2em; /* Smaller font size on mobile */
     }
 
     .landing-container img {
-        max-width: 95%; /* Allow image to take more width on mobile for better visibility */
+        width: 80%; /* Larger percentage to make the image more visible on smaller screens */
     }
 }
 
-/* Additional adjustments for desktop and larger screens */
+/* Adjustments for very large screens */
 @media (min-width: 1024px) {
+    .landing-container h2 {
+        font-size: 4em; /* Larger font size for very large screens */
+    }
+
     .landing-container img {
-        max-width: 70%; /* Controlled image size on larger screens */
+        width: 40%; /* Slightly smaller image on larger screens */
     }
 }
 
