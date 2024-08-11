@@ -4,6 +4,9 @@ title: Alejandro Pérez Velilla
 landing_page: true
 ---
 
-<div class="center-content">
-<h2>Alejandro Pérez Velilla</h2>
+<div class="landing-container">
+    <div class="text-and-image">
+        <h2>Alejandro Pérez Velilla</h2>
+        <img src="{{ '/assets/landing_photo.png' | relative_url }}" alt="Alejandro">
+    </div>
 </div>
