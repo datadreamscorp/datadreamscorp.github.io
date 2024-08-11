@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Alejandro Pérez Velilla
+landing_page: true
 ---
 
 <div class="center-content">
