@@ -1,44 +1,55 @@
+/* Ensure that html and body take full height and can use flex properties effectively */
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+/* Container that holds all the content to be centered */
 .landing-container {
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    text-align: center;
-    height: 100vh;
-    width: 100vw; /* Ensure the container uses the full viewport width */
-    margin: 0 auto; /* Center the container horizontally */
+    width: 100%;
 }
 
 .text-and-image {
     display: flex;
-    flex-direction: column; /* Adjust based on your preference for stacking */
-    align-items: center; /* Ensure content is centered within the container */
-    justify-content: center;
-    width: 100%; /* Utilizes full width to avoid skewing */
-    margin: 0; /* Remove any default margin */
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 20px; /* Space between the image and the language links */
 }
 
 .text-and-image img {
-    max-width: 50%; /* Adjust size to fit well on desktop */
+    max-width: 90%; /* Responsive image width */
     height: auto; /* Maintain aspect ratio */
-    margin-top: 20px; /* Space between the name and the image */
+    margin-top: 20px; /* Space between name and image */
 }
 
-/* Desktop specific adjustments */
-@media (min-width: 768px) {
-    .text-and-image {
-        flex-direction: row; /* Side by side on larger screens */
-        justify-content: center; /* Center content horizontally */
-    }
-    .text-and-image img {
-        max-width: 30%; /* Larger screens get a smaller max-width percentage */
-    }
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0; /* Ensures nav is tightly wrapped around its contents */
 }
 
-/* Mobile specific adjustments */
-@media (max-width: 767px) {
-    .text-and-image img {
-        max-width: 80%; /* Larger max-width for smaller screens */
-    }
+nav ul li {
+    display: inline;
+    margin: 0 10px; /* Spacing between language links */
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #0066cc;
+    font-size: 1.5em; /* Larger text for better readability */
+}
+
+nav ul li a:hover {
+    text-decoration: underline;
 }
 
