@@ -1,8 +1,10 @@
 ---
 layout: default
-title: "anthrocult"  
+title: "anthrocult"
 lang: en
 ---
+
+<div align="center">
 
 ### Alejandro Pérez Velilla
 #### Anthropology / Cognitive Science
@@ -11,7 +13,11 @@ lang: en
 ##### Guest researcher @ Department of Human Behavior, Ecology and Culture, MPI-EVA
 ##### Member of [Sanguatsiniq](https://sanguatsiniq.github.io/)
 
-Welcome! My name is Alejandro Pérez Velilla, and I come from Colombia. I am an anthropologist and cognitive scientist with a keen interest in how we make decisions under risk and uncertainty, and how culture and environmental conditions affect our preferences for doing so. For this, my collaborators and I strive to combine game-theoretic modeling along with long-term fieldwork in order to produce testable hypotheses that can be contrasted with naturalistic data. For now, I have had the pleasure of working in the Canadian Arctic as well as the Colombian Caribbean, asking people about the decisions they make in their daily lives and seeking to understand the environmental factors and individual decisions that shape the economies of small-scale communities in the age of global market integration. 
+</div>
+
+<div style="text-align: justify;">
+
+Welcome! My name is Alejandro Pérez Velilla, and I come from Colombia. I am an anthropologist and cognitive scientist with a keen interest in how we make decisions under risk and uncertainty, and how culture and environmental conditions affect our preferences for doing so. For this, my collaborators and I strive to combine game-theoretic modeling along with long-term fieldwork in order to produce testable hypotheses that can be contrasted with naturalistic data. For now, I have had the pleasure of working in the Canadian Arctic as well as the Colombian Caribbean, asking people about the decisions they make in their daily lives and seeking to understand the environmental factors and individual decisions that shape the economies of small-scale communities in the age of global market integration.
 
 My current projects, which are part of my PhD dissertation, deal with two broad subjects:
 
@@ -20,7 +26,10 @@ My current projects, which are part of my PhD dissertation, deal with two broad 
 
 Please contact me if you have any questions about my work or just want to have a chat. I hope you have a lovely day.
 
+</div>
+
 ![photo](/img/field_photo.png)
 
 contact: aperezvelilla@ucmerced.edu  
 [github](https://github.com/datadreamscorp)
+

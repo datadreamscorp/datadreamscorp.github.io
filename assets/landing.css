@@ -86,7 +86,7 @@ nav ul li {
 /* Adjustments for very large screens */
 @media (min-width: 1024px) {
     .landing-container h1 {
-        font-size: 3.5em; /* Larger font size for very large screens */
+        font-size: 4.5em; /* Larger font size for very large screens */
     }
 
     .landing-container img {
