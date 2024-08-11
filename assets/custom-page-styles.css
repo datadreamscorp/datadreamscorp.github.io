@@ -1,0 +1,10 @@
+/* custom-page-styles.css */
+
+h3, h4, h5 {
+    text-align: center;
+}
+
+p, ul {
+    text-align: justify;
+}
+

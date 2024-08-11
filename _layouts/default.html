@@ -8,6 +8,9 @@
     {% if page.landing_page %}
     <link rel="stylesheet" href="{{ '/assets/landing.css' | relative_url }}">
     {% endif %}
+    {% if page.custom_css %}
+    <link rel="stylesheet" href="{{ page.custom_css | relative_url }}">
+    {% endif %}
 </head>
 <body>
     <nav>
@@ -22,3 +25,4 @@
     </div>
 </body>
 </html>
+
