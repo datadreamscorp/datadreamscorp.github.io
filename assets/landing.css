@@ -12,10 +12,36 @@ html, body {
 
 body {
     display: flex;
+    flex-direction: column;
     align-items: center;
     justify-content: center;
     font-family: Arial, sans-serif;
     text-align: center;
+}
+
+/* Navigation bar styling */
+nav {
+    width: 100%;
+    position: fixed;
+    top: 0;
+    display: flex;
+    justify-content: center;
+    background: transparent;
+    padding: 10px 0;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+
+nav ul li {
+    margin: 0 10px;
+    font-size: 1em;
+    color: #333;
 }
 
 /* Container for all content to center everything properly */
@@ -24,13 +50,14 @@ body {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    min-height: 100vh; /* This will make sure that the container is at least the height of the viewport */
-    width: 100%; /* Full width */
+    min-height: 100vh; /* Ensures the container is at least the height of the viewport */
+    width: 100%;
+    padding-top: 40px; /* To account for fixed nav */
 }
 
 /* Base styles for text and image */
-.landing-container h2 {
-    font-size: 3em; /* Larger font size for better visibility */
+.landing-container h1 {
+    font-size: 2em; /* Adjust font size */
     color: #333;
     margin: 0.5em 0; /* Uniform margin for top and bottom */
 }
@@ -43,23 +70,27 @@ body {
 
 /* Responsive adjustments */
 @media (max-width: 768px) {
-    .landing-container h2 {
-        font-size: 2em; /* Smaller font size on mobile */
+    .landing-container h1 {
+        font-size: 1.5em; /* Smaller font size on mobile */
     }
 
     .landing-container img {
         width: 80%; /* Larger percentage to make the image more visible on smaller screens */
     }
+
+    nav ul li {
+        font-size: 0.75em; /* Smaller font size for nav items on mobile */
+    }
 }
 
 /* Adjustments for very large screens */
 @media (min-width: 1024px) {
-    .landing-container h2 {
-        font-size: 4em; /* Larger font size for very large screens */
+    .landing-container h1 {
+        font-size: 3em; /* Larger font size for very large screens */
     }
 
     .landing-container img {
-        width: 40%; /* Slightly smaller image on larger screens */
+        width: 30%; /* Smaller image on larger screens */
     }
 }
 
