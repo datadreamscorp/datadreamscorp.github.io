@@ -6,7 +6,7 @@ lang: es
 
 ### Alejandro Pérez Velilla
 ##### Antropología / Ciencia Cognitiva
-###### Licenciado en Ciencias Antropológicas @ Universidad de Buenos Aires
+###### Licenciado @ Ciencias Antropológicas, Universidad de Buenos Aires
 ###### Doctorando @ Cognitive and Information Sciences, UC Merced
 ###### Investigador invitado @ Department of Human Behavior, Ecology and Culture, MPI-EVA
 ###### Miembro de [Sanguatsiniq](https://sanguatsiniq.github.io/)
