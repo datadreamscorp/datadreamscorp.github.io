@@ -1,8 +1,9 @@
 body {
     font-family: Georgia, "Times New Roman", Times, serif;
     line-height: 1.5;
-    margin: 20px;
-    padding: 0;
+    margin: 20px auto;
+    max-width: 800px; /* Constrain the width for larger screens */
+    padding: 20px;
     background-color: #ffffff;
     color: #333;
 }
@@ -11,6 +12,7 @@ nav ul {
     list-style-type: none;
     padding: 0;
     margin-bottom: 20px;
+    text-align: center;
 }
 
 nav ul li {
@@ -19,8 +21,10 @@ nav ul li {
 }
 
 nav ul li a {
+    font-family: inherit; /* Use the same font as the rest of the site */
     color: #0066cc;
     text-decoration: none;
+    font-size: 1em; /* Match the font size for consistency */
 }
 
 nav ul li a:hover {
@@ -58,4 +62,5 @@ img {
     display: block;
     margin: 0 auto;
 }
+
 

@@ -3,4 +3,5 @@ layout: default
 title: Alejandro Pérez Velilla
 ---
 
-<h2>Welcome / Bienvenid@</h2>
+<h2>Alejandro Pérez Velilla</h2>
+
