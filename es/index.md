@@ -6,12 +6,12 @@ lang: es
 
 <div align="center">
 
-<h3>Alejandro Pérez Velilla</h3>
-<h4>Antropología / Ciencia Cognitiva</h4>
-<h5>Licenciado @ Ciencias Antropológicas, Universidad de Buenos Aires</h5>
-<h5>Doctorando @ Cognitive and Information Sciences, University of California, Merced</h5>
-<h5>Investigador invitado @ Department of Human Behavior, Ecology and Culture, MPI-EVA</h5>
-<h5>Miembro de <a href="https://sanguatsiniq.github.io/">Sanguatsiniq</a></h5>
+<h2>Alejandro Pérez Velilla</h3>
+<h3>Antropología / Ciencia Cognitiva</h4>
+<h4>Licenciado @ Ciencias Antropológicas, Universidad de Buenos Aires</h5>
+<h4>Doctorando @ Cognitive and Information Sciences, University of California, Merced</h5>
+<h4>Investigador invitado @ Department of Human Behavior, Ecology and Culture, MPI-EVA</h5>
+<h4>Miembro de <a href="https://sanguatsiniq.github.io/">Sanguatsiniq</a></h5>
 
 </div>
 
