@@ -5,51 +5,40 @@
     justify-content: center;
     text-align: center;
     height: 100vh;
-    font-family: Georgia, serif;
+    width: 100vw; /* Ensure the container uses the full viewport width */
+    margin: 0 auto; /* Center the container horizontally */
 }
 
 .text-and-image {
     display: flex;
-    flex-direction: row; /* default to side-by-side */
-    align-items: center; /* align items vertically */
-    justify-content: center; /* center horizontally */
-    margin-bottom: 20px;
+    flex-direction: column; /* Adjust based on your preference for stacking */
+    align-items: center; /* Ensure content is centered within the container */
+    justify-content: center;
+    width: 100%; /* Utilizes full width to avoid skewing */
+    margin: 0; /* Remove any default margin */
 }
 
 .text-and-image img {
-    width: 150px; /* adjust size as needed */
-    height: auto;
-    margin-left: 20px; /* space between text and image */
+    max-width: 50%; /* Adjust size to fit well on desktop */
+    height: auto; /* Maintain aspect ratio */
+    margin-top: 20px; /* Space between the name and the image */
 }
 
-nav ul {
-    list-style-type: none;
-    padding: 0;
-}
-
-nav ul li {
-    display: inline;
-    margin: 0 10px;
-}
-
-nav ul li a {
-    text-decoration: none;
-    color: #0066cc;
-    font-size: 1.5em;
-}
-
-nav ul li a:hover {
-    text-decoration: underline;
-}
-
-/* Media Query for Mobile Screens */
-@media (max-width: 768px) {
+/* Desktop specific adjustments */
+@media (min-width: 768px) {
     .text-and-image {
-        flex-direction: column; /* stack vertically on mobile */
+        flex-direction: row; /* Side by side on larger screens */
+        justify-content: center; /* Center content horizontally */
     }
     .text-and-image img {
-        margin-left: 0; /* remove side margin */
-        margin-top: 10px; /* space between text and image */
+        max-width: 30%; /* Larger screens get a smaller max-width percentage */
+    }
+}
+
+/* Mobile specific adjustments */
+@media (max-width: 767px) {
+    .text-and-image img {
+        max-width: 80%; /* Larger max-width for smaller screens */
     }
 }
 
