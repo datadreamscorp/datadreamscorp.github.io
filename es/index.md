@@ -5,11 +5,11 @@ lang: es
 ---
 
 ### Alejandro Pérez Velilla
-##### Antropología / Ciencia Cognitiva
-###### Licenciado @ Ciencias Antropológicas, Universidad de Buenos Aires
-###### Doctorando @ Cognitive and Information Sciences, UC Merced
-###### Investigador invitado @ Department of Human Behavior, Ecology and Culture, MPI-EVA
-###### Miembro de [Sanguatsiniq](https://sanguatsiniq.github.io/)
+#### Antropología / Ciencia Cognitiva
+##### Licenciado @ Ciencias Antropológicas, Universidad de Buenos Aires
+##### Doctorando @ Cognitive and Information Sciences, UC Merced
+##### Investigador invitado @ Department of Human Behavior, Ecology and Culture, MPI-EVA
+##### Miembro de [Sanguatsiniq](https://sanguatsiniq.github.io/)
 
 ¡Bienvenid@! Me llamo Alejandro Pérez Velilla y soy de Colombia. Soy antropólogo y científico cognitivo, con un interés especial en cómo tomamos decisiones bajo riesgo e incertidumbre, y cómo la cultura y las condiciones ambientales afectan nuestras preferencias al hacerlo. Para esto, mis colaboradores y yo nos esforzamos por combinar el modelado de teoría de juegos con el trabajo de campo a largo plazo, con el fin de producir hipótesis comprobables que puedan contrastarse con datos y experiencias etnográficas. Hasta ahora, he tenido el placer de trabajar en el Ártico Canadiense, así como en el Caribe Colombiano, preguntando a las personas sobre las decisiones que toman en su vida diaria y buscando entender los factores ambientales y las decisiones individuales que moldean las economías de las comunidades a pequeña escala en la era de la integración masiva en el mercado global.
 
