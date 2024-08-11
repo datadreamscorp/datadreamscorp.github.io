@@ -5,7 +5,7 @@
     box-sizing: border-box;
 }
 
-/* Full-screen centering using flexbox */
+/* Full-screen centering using flexbox with slight top alignment */
 .landing-container {
     display: flex;
     flex-direction: column;
@@ -14,27 +14,32 @@
     text-align: center;
     min-height: 100vh;
     width: 100%;
-    padding: 20px;
+    padding: 40px 20px; /* Added top padding to push content slightly up */
+    position: relative;
+    top: -50px; /* Moves the content higher up the page */
 }
 
-/* Smaller text size for the name and increased space below it */
+/* Header style adjustments */
 .landing-container h2 {
-    font-size: 2em; /* Smaller font size than previously set */
-    margin: 0 0 20px 0; /* Adjusted space below the header */
+    font-size: 2.25em; /* Slightly larger font size */
+    margin-bottom: 15px; /* Reduced space below the header */
     color: #333; /* Ensuring text color is set for visibility */
 }
 
-/* Responsive image styling with a larger maximum width */
+/* Responsive image styling with adjustments */
 .landing-container img {
-    max-width: 90%; /* Allow the image to be larger */
+    max-width: 90%; /* Larger width for the image */
     height: auto; /* Maintain aspect ratio */
-    margin-top: 20px; /* Space between text and image */
+    margin-top: 10px; /* Reduced space above the image */
 }
 
-/* Additional media queries to fine-tune for larger screens */
+/* Media query adjustments for desktop and large screens */
 @media (min-width: 1024px) {
+    .landing-container {
+        top: -100px; /* Moves content higher up for larger screens */
+    }
     .landing-container img {
-        max-width: 70%; /* Still larger on big screens but not too dominating */
+        max-width: 70%; /* Adjusting image width on larger screens */
     }
 }
 
