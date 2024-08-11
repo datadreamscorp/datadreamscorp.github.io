@@ -63,7 +63,7 @@ nav ul li {
 }
 
 .landing-container img {
-    width: 35%; /* Adjusted width for desktop */
+    width: 60%; /* Increased width for desktop */
     height: auto; /* Maintain aspect ratio */
     margin-top: 20px; /* Space between name and image */
 }
@@ -90,11 +90,11 @@ nav ul li {
     }
 
     .landing-container img {
-        width: 40%; /* Larger image on larger screens */
+        width: 60%; /* Increased image size on larger screens */
     }
 
     nav ul li {
-        font-size: 1.25em; /* Larger font size for navigation links on large screens */
+        font-size: 1.0em; /* Larger font size for navigation links on large screens */
     }
 }
 
