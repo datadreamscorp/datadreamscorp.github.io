@@ -1,44 +1,38 @@
-/* Container settings to ensure full screen centering */
+/* General reset for the landing page to avoid inherited styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Container for the entire landing content */
 .landing-container {
     display: flex;
     flex-direction: column;
-    justify-content: center;
     align-items: center;
+    justify-content: center;
     text-align: center;
     height: 100vh;
     width: 100vw;
-    margin: 0;
-    padding: 20px;
-    box-sizing: border-box; /* Includes padding in width/height calculations */
 }
 
-/* Styling for text headers within the landing page */
-.landing-container h2 {
-    margin-top: 0.5em;
-    margin-bottom: 20px; /* Add more space between the text and the image */
-    font-size: 2.5em; /* Larger text for visibility */
-    color: #333; /* Dark gray color */
+/* Styling for the header inside the landing-container */
+.landing-container .text-and-image h2 {
+    font-size: 2.5em; /* Larger font size for the headline */
+    margin-bottom: 20px; /* Space between the text and the image */
 }
 
-/* Styling for images to ensure they resize and center correctly */
-.landing-container img {
-    width: auto; /* Adjust width automatically */
-    max-width: 75%; /* Allows the image to be up to 75% of container width */
-    max-height: 50vh; /* Limits image height to 50% of viewport height */
+/* Image styling adjusted for responsiveness */
+.landing-container .text-and-image img {
+    max-width: 75%; /* Control the image size on larger screens */
     height: auto; /* Maintain aspect ratio */
-    margin-top: 20px; /* Space between text and image */
+    margin-bottom: 20px; /* Space below the image */
 }
 
-/* Media Queries for responsive adjustments */
-@media (min-width: 1024px) {
-    .landing-container img {
-        max-width: 50%; /* Smaller percentage for larger screens for better aesthetics */
-    }
-}
-
+/* Responsive adjustments for smaller screens */
 @media (max-width: 768px) {
-    .landing-container img {
-        max-width: 90%; /* Larger percentage for smaller screens for better visibility */
+    .landing-container .text-and-image img {
+        max-width: 95%; /* Allow image to take more width on smaller screens */
     }
 }
 
