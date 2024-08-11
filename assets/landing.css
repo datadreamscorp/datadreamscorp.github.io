@@ -1,45 +1,40 @@
-/* Reset styles for specific elements on the landing page to avoid inheritance issues */
-*, *::before, *::after {
+/* Reset and basic styles to ensure no inherited anomalies */
+* {
+    margin: 0;
+    padding: 0;
     box-sizing: border-box;
 }
 
-/* Full-screen container with centered content */
+/* Full-screen centering using flexbox */
 .landing-container {
     display: flex;
     flex-direction: column;
-    justify-content: center;
     align-items: center;
+    justify-content: center;
     text-align: center;
-    height: 100vh;
-    width: 100vw;
+    min-height: 100vh;
+    width: 100%;
     padding: 20px;
 }
 
-/* Header style adjustments */
+/* Ensuring the text is prominently displayed and centered */
 .landing-container h2 {
-    font-size: 2.5em;  /* Increase font size for better visibility */
-    color: #333;  /* Dark gray color for contrast */
-    margin: 0 0 20px 0;  /* Space below the header */
+    font-size: 3em; /* Larger text size for better visibility */
+    margin: 0 0 30px 0; /* More space below the header */
 }
 
-/* Responsive image adjustments */
+/* Responsive image styling */
 .landing-container img {
-    max-width: 80%;  /* Limiting width to 80% for better view */
-    height: auto;  /* Maintain aspect ratio */
-    margin-top: 20px;  /* Space above the image */
+    max-width: 80%; /* Adjust width to a maximum of 80% of its container */
+    height: auto; /* Maintain aspect ratio */
+    margin-top: 20px; /* Space between text and image */
 }
 
-/* Media query for larger screens to adjust image size */
+/* Additional media queries to fine-tune for larger screens */
 @media (min-width: 1024px) {
     .landing-container img {
-        max-width: 50%;  /* Reduce image size on larger screens */
+        max-width: 60%; /* Reducing size for large screens */
     }
 }
 
-/* Media query for smaller screens to adjust image size */
-@media (max-width: 768px) {
-    .landing-container img {
-        max-width: 90%;  /* Allow larger images on smaller screens */
-    }
-}
 
