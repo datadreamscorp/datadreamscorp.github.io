@@ -5,6 +5,19 @@ theme: jekyll-theme-cayman
 plugins:
   - jekyll-relative-links
 
+relative_links:
+  enabled: true
+  collections: true
+
+include:
+  - CONTRIBUTING.md
+  - README.md
+  - LICENSE.md
+  - COPYING.md
+  - CODE_OF_CONDUCT.md
+  - ISSUE_TEMPLATE.md
+  - PULL_REQUEST_TEMPLATE.md
+
 collections:
   pages:
     output: true
@@ -20,12 +33,3 @@ lang: "en"
 langs: ["en", "es"]
 
 permalink: /:path/:basename:output_ext
-
-include:
-  - CONTRIBUTING.md
-  - README.md
-  - LICENSE.md
-  - COPYING.md
-  - CODE_OF_CONDUCT.md
-  - ISSUE_TEMPLATE.md
-  - PULL_REQUEST_TEMPLATE.md
