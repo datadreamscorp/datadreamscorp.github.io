@@ -14,13 +14,11 @@ lang: es
 
 Mis proyectos actuales, que son parte de mi disertación doctoral, tratan dos temas generales:
 
-    Construir una teoría evolutiva (cultural) formal sobre el desarrollo y la transmisión cultural de las actitudes hacia el riesgo que pueda explicar cómo estas actitudes están relacionadas con la incertidumbre ambiental, cómo pueden cambiar a lo largo de la vida de los individuos y cómo pueden ser afectadas por la influencia de pares y la herencia cultural (como en el caso del trauma generacional).
-    Caracterizar la aparición de normas de distribución de recursos comunitarios y sus incentivos asociados. Compartir recursos es una de las formas más útiles de mitigación de riesgos disponibles para las comunidades humanas y antecede a los esquemas modernos de seguros, pero también puede usarse estratégicamente para navegar las jerarquías comunitarias a través de la reciprocidad indirecta y la construcción de reputaciones. Para distinguir entre ambos escenarios (o incluso saber si es posible hacerlo), mis colaboradores y yo estamos desarrollando modelos y analizando datos sobre decisiones en torno a la distribución de alimentos en el Ártico Canadiense.
+- Construir una teoría evolutiva (cultural) formal sobre el desarrollo y la transmisión cultural de las actitudes hacia el riesgo que pueda explicar cómo estas actitudes están relacionadas con la incertidumbre ambiental, cómo pueden cambiar a lo largo de la vida de los individuos y cómo pueden ser afectadas por la influencia de pares y la herencia cultural (como en el caso del trauma generacional).
+- Caracterizar la aparición de normas de distribución de recursos comunitarios y sus incentivos asociados. Compartir recursos es una de las formas más útiles de mitigación de riesgos disponibles para las comunidades humanas y antecede a los esquemas modernos de seguros, pero también puede usarse estratégicamente para navegar las jerarquías comunitarias a través de la reciprocidad indirecta y la construcción de reputaciones. Para distinguir entre ambos escenarios (o incluso saber si es posible hacerlo), mis colaboradores y yo estamos desarrollando modelos y analizando datos sobre decisiones en torno a la distribución de alimentos en el Ártico Canadiense.
 
 Por favor, contáctame si tienes alguna pregunta sobre mi trabajo o simplemente quieres charlar. Espero que tengas un gran día.
 ![photo](/img/field_photo.png)
 
-contact: aperezvelilla@ucmerced.edu  
-twitter: apvelilla
-
+contacto: aperezvelilla@ucmerced.edu 
 [github](https://github.com/datadreamscorp)
