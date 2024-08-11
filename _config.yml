@@ -4,7 +4,22 @@ plugins:
   - jekyll-relative-links
 relative_links:
   enabled: true
-  collections: true
+  theme: jekyll-theme-cayman
+
+collections:
+  pages:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+
+lang: "en"
+langs: ["en", "es"]
+
 include:
   - CONTRIBUTING.md
   - README.md
