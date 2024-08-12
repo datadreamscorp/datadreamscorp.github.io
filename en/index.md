@@ -21,7 +21,6 @@ My current projects, which are part of my PhD dissertation, deal with two broad 
 
 ![photo](/img/field_photo.png)
 
-Please contact me if you have any questions about my work or just want to have a chat.
 e-mail: aperezvelilla@ucmerced.edu  
 [github](https://github.com/datadreamscorp)
 

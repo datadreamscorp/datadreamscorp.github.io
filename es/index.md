@@ -21,7 +21,6 @@ Mis proyectos actuales, que son parte de mi disertación doctoral, tratan dos te
 
 ![photo](/img/field_photo.png)
 
-Por favor, contáctame si tienes alguna pregunta sobre mi trabajo o si simplemente quieres charlar.
 correo: aperezvelilla@ucmerced.edu  
 [github](https://github.com/datadreamscorp)
 
