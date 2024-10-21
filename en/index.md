@@ -5,14 +5,7 @@ lang: en
 custom_css: "/assets/custom-page-styles.css"
 ---
 
-### Alejandro Pérez Velilla
-#### Anthropology / Cognitive Science
-##### Licenciado @ Ciencias Antropológicas, Universidad de Buenos Aires
-##### PhD Candidate @ Cognitive and Information Sciences, UC Merced
-##### Guest researcher @ Department of Human Behavior, Ecology and Culture, MPI-EVA
-##### Member of [Sanguatsiniq](https://sanguatsiniq.github.io/)
-
-Welcome. My name is Alejandro Pérez Velilla, and I come from Colombia. I am an anthropologist and cognitive scientist with a keen interest in how we make decisions under risk and uncertainty, and how culture and environmental conditions affect our preferences for doing so. For this, my collaborators and I strive to combine game-theoretic modeling along with long-term fieldwork in order to produce testable hypotheses that can be contrasted with naturalistic data. For now, I have had the pleasure of working in the Canadian Arctic as well as the Colombian Caribbean, asking people about the decisions they make in their daily lives and seeking to understand the environmental factors and individual decisions that shape the economies of small-scale communities in the age of global market integration.
+Welcome. My name is Alejandro Pérez Velilla. I am an anthropologist and cognitive scientist with a keen interest in how we make decisions under risk and uncertainty, and how culture and environmental conditions affect our preferences for doing so. For this, my collaborators and I strive to combine game-theoretic modeling along with long-term fieldwork in order to produce testable hypotheses that can be contrasted with naturalistic data. For now, I have had the pleasure of working in the Canadian Arctic as well as the Colombian Caribbean, asking people about the decisions they make in their daily lives and seeking to understand the environmental factors and individual decisions that shape the economies of small-scale communities in the age of global market integration.
 
 My current projects, which are part of my PhD dissertation, deal with two broad subjects:
 
