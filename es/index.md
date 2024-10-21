@@ -14,11 +14,6 @@ Mis proyectos actuales, que son parte de mi disertación doctoral, tratan dos te
 
 ![photo](/img/field_photo.png)
 
-##### Licenciado @ Ciencias Antropológicas, Universidad de Buenos Aires
-##### Doctorando @ Cognitive and Information Sciences, UC Merced
-##### Investigador invitado @ Department of Human Behavior, Ecology and Culture, MPI-EVA
-##### Miembro de [Sanguatsiniq](https://sanguatsiniq.github.io/)
-
 correo: aperezvelilla@ucmerced.edu  
 [github](https://github.com/datadreamscorp)
 
