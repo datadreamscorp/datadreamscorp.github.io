@@ -23,6 +23,6 @@ Pérez Velilla, A., Moser, C. J., & Smaldino, P. E. (2022). Hidden clusters beyo
 
 ### Contact
 
-e-mail: aperezvelilla@ucmerced.edu  
+aperezvelilla@ucmerced.edu  
 [github](https://github.com/datadreamscorp)
 
