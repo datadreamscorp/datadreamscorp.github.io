@@ -21,7 +21,7 @@ Smaldino, P. E., Moser, C., Pérez Velilla, A., & Werling, M. (2024). Maintainin
 #### 2022
 Pérez Velilla, A., Moser, C. J., & Smaldino, P. E. (2022). Hidden clusters beyond ethnic boundaries. Behavioral & Brain Sciences.
 
-#### Contact
+### Contact
 
 e-mail: aperezvelilla@ucmerced.edu  
 [github](https://github.com/datadreamscorp)
