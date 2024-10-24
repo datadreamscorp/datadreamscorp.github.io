@@ -5,14 +5,21 @@ lang: en
 custom_css: "/assets/custom-page-styles.css"
 ---
 
-Welcome. My name is Alejandro Pérez Velilla. I am an anthropologist and cognitive scientist with a keen interest in how we make decisions under risk and uncertainty, and how culture and environmental conditions affect our preferences for doing so. For this, my collaborators and I strive to combine game-theoretic modeling along with long-term fieldwork in order to produce testable hypotheses that can be contrasted with naturalistic data. For now, I have had the pleasure of working in the Canadian Arctic as well as the Colombian Caribbean, asking people about the decisions they make in their daily lives and seeking to understand the environmental factors and individual decisions that shape the economies of small-scale communities in the age of global market integration.
+### Alejandro Pérez Velilla
 
-My current projects, which are part of my PhD dissertation, deal with two broad subjects:
-
-- Constructing a formal (cultural) evolutionary theory of the development and cultural inheritance of risk attitudes that can explain how such attitudes are related to environmental uncertainty, how they can change within individuals' lifetimes and how they can be affected by peer influence and cultural inheritance (i.e. generational trauma).
-- Characterizing the emergence of community resource-sharing norms and their associated incentives. Sharing is one of the handiest forms of risk-pooling available to human communities and predates modern insurance schemes, but it can also be used strategically to navigate community hierarchies through indirect reciprocity and reputation-building. In order to distinguish between both scenarios (or even to know if it is possible) my collaborators and I are developing models and analyzing data on food sharing in the Canadian Arctic.
+Welcome. I am an anthropologist and cognitive scientist with an interest in how learning, culture and environmental conditions affect the ways we make decisions. Some of the subjects I work on are social learning and cooperation under risk and uncertainty, the formation of social and economic networks within communities and the emergence and effects of generational trauma. My collaborators and I strive to combine game-theoretic and agent-based modeling along with long-term fieldwork in order to produce testable hypotheses about these subjects that can be contrasted with naturalistic data.
 
 ![photo](/img/field_photo.png)
+
+### Publications
+
+#### 2024
+Smaldino, P. E., Pérez Velilla, A. (In press). The Evolution of Similarity-Biased Social Learning. Evolutionary Human Sciences. Cambridge University Press.
+
+Smaldino, P. E., Moser, C., Pérez Velilla, A., & Werling, M. (2024). Maintaining transient diversity is a general principle for improving collective problem solving. Perspectives on Psychological Science, 19(2), 454-464.
+
+#### 2022
+Pérez Velilla, A., Moser, C. J., & Smaldino, P. E. (2022). Hidden clusters beyond ethnic boundaries. Behavioral & Brain Sciences.
 
 e-mail: aperezvelilla@ucmerced.edu  
 [github](https://github.com/datadreamscorp)
