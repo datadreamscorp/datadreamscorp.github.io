@@ -25,5 +25,6 @@ Pérez Velilla, A., Moser, C. J., & Smaldino, P. E. (2022). Hidden clusters beyo
 
 aperezvelilla@ucmerced.edu  
 [github](https://github.com/datadreamscorp)
+
 [cv](/docs/CV.pdf)
 
