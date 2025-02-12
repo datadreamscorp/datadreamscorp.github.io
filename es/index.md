@@ -13,8 +13,21 @@ Bienvenidos. Soy antropólogo y científico cognitivo, y me interesa cómo el ap
 
 ## Publicaciones
 
+#### En progreso
+
+Pérez Velilla, A., Smaldino, P. The cultural group selection of optimal sharing norms.
+
+Pérez Velilla, A., Ready, E. The emergence of sharing networks through indirect signaling.
+
+Pérez Velilla, A., Nöldeke, G., Peña, J. Reciprocity and the evolution of risk-reduction sharing.
+
+#### 2025
+
+Pérez Velilla, A., Beheim, B., & Smaldino, P. E. (2025, January 31). The development of risk attitudes and their cultural transmission. [SocArxiv](https://doi.org/10.31235/osf.io/9yjes_v2).
+
 #### 2024
-Smaldino, P. E., Pérez Velilla, A. (In press). The Evolution of Similarity-Biased Social Learning. Evolutionary Human Sciences. Cambridge University Press.
+
+Smaldino, P. E., Pérez Velilla, A. The evolution of similarity-biased social learning. Evolutionary Human Sciences. 2025;7:e4. doi:10.1017/ehs.2024.46 
 
 Smaldino, P. E., Moser, C., Pérez Velilla, A., & Werling, M. (2024). Maintaining transient diversity is a general principle for improving collective problem solving. Perspectives on Psychological Science, 19(2), 454-464.
 
