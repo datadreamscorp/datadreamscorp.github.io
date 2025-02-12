@@ -15,6 +15,8 @@ Welcome. I am an anthropologist and cognitive scientist with an interest in how 
 
 #### Work In Progress
 
+Pérez Velilla, A., Padilla, K. J., Cassiani Cervantes, D., Herrera, Y., Hernández, A., Hurtado Manyoma, A., Dalla Ragione, A., Ross, C. T. Palenquero proficiency in San Basilio de Palenque, Colombia: A large-scale assessment.
+
 Pérez Velilla, A., Smaldino, P. The cultural group selection of optimal sharing norms.
 
 Pérez Velilla, A., Ready, E. The emergence of sharing networks through indirect signaling.
