@@ -15,7 +15,7 @@ Bienvenidos. Soy antropólogo y científico cognitivo, y me interesa cómo el ap
 
 #### En progreso
 
-Pérez Velilla, A., Padilla, K. J., Cassiani Cervantes, D., Herrera, Y., Hernández, A., Hurtado Manyoma, A., Dalla Ragione, A., Ross, C. T. Palenquero proficiency in San Basilio de Palenque, Colombia: A large-scale assessment.
+Pérez Velilla, A., Padilla, K. J., Cassiani Cervantes, D., Herrera, Y., Hernández, A., Hurtado Manyoma, A., Dalla Ragione, A., Ross, C. T. Speaking Against Extinction: Super-speakers and children as pillars of Palenquero language resilience.
 
 Pérez Velilla, A., Smaldino, P. The cultural group selection of optimal sharing norms.
 
