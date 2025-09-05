@@ -7,9 +7,9 @@ custom_css: "/assets/custom-page-styles.css"
 
 ## Alejandro Pérez Velilla
 
-Bienvenid@s. Soy antropólogo y científico cognitivo, y me interesa cómo el aprendizaje, la cultura y las condiciones ambientales influyen en nuestras decisiones. Mis áreas de estudio incluyen el aprendizaje social y la cooperación bajo riesgo e incertidumbre, la formación de redes sociales y económicas dentro de comunidades, y los orígenes y efectos del trauma generacional. Junto a mis colaboradores, combino teoría de juegos y modelado basado en agentes con trabajo de campo a largo plazo, para generar hipótesis que puedan ser contrastadas con datos naturalistas.
+Bienvenid@s. Soy un científico cognitivo con un formación en antropología sociocultural. Me interesa cómo el aprendizaje, la cultura y las condiciones ambientales influyen en nuestras decisiones. Mis áreas de estudio incluyen el aprendizaje social y la cooperación bajo riesgo e incertidumbre, la formación de redes sociales y económicas dentro de comunidades, y los orígenes y efectos del trauma generacional. Junto a mis colaboradores, combino teoría de juegos y modelado basado en agentes con trabajo de campo a largo plazo, para generar hipótesis que puedan ser contrastadas con datos naturalistas.
 
-<![photo](/img/field_photo.png)>
+![photo](/img/field_photo.png)
 
 ## Publicaciones
 

@@ -7,9 +7,9 @@ custom_css: "/assets/custom-page-styles.css"
 
 ## Alejandro Pérez Velilla
 
-Welcome. I am an anthropologist and cognitive scientist with an interest in how learning, culture and environmental conditions affect the ways we make decisions. Some of the subjects I work on are social learning and cooperation under risk and uncertainty, the formation of social and economic networks within communities and the emergence and effects of generational trauma. My collaborators and I strive to combine game-theoretic and agent-based modeling along with long-term fieldwork in order to produce testable hypotheses about these subjects that can be contrasted with naturalistic data.
+Welcome. I am a cognitive scientist with an anthropology background. I have a broad interest in how learning, culture and environmental conditions affect the ways we make decisions. Some of the subjects I work on are social learning and cooperation under risk and uncertainty, the formation of social and economic networks within communities and the emergence and effects of generational trauma. My collaborators and I strive to combine game-theoretic and agent-based modeling along with long-term fieldwork in order to produce testable hypotheses about these subjects that can be contrasted with naturalistic data.
 
-<![photo](/img/field_photo.png)>
+![photo](/img/field_photo.png)
 
 ## Publications
 
