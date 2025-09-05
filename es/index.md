@@ -7,17 +7,19 @@ custom_css: "/assets/custom-page-styles.css"
 
 ## Alejandro Pérez Velilla
 
-Bienvenidos. Soy antropólogo y científico cognitivo, y me interesa cómo el aprendizaje, la cultura y las condiciones ambientales influyen en nuestras decisiones. Mis áreas de estudio incluyen el aprendizaje social y la cooperación bajo riesgo e incertidumbre, la formación de redes sociales y económicas dentro de comunidades, y los orígenes y efectos del trauma generacional. Junto a mis colaboradores, combino teoría de juegos y modelado basado en agentes con trabajo de campo a largo plazo, para generar hipótesis que puedan ser contrastadas con datos naturalistas.
+Bienvenid@s. Soy antropólogo y científico cognitivo, y me interesa cómo el aprendizaje, la cultura y las condiciones ambientales influyen en nuestras decisiones. Mis áreas de estudio incluyen el aprendizaje social y la cooperación bajo riesgo e incertidumbre, la formación de redes sociales y económicas dentro de comunidades, y los orígenes y efectos del trauma generacional. Junto a mis colaboradores, combino teoría de juegos y modelado basado en agentes con trabajo de campo a largo plazo, para generar hipótesis que puedan ser contrastadas con datos naturalistas.
 
-![photo](/img/field_photo.png)
+<![photo](/img/field_photo.png)>
 
 ## Publicaciones
 
 #### En progreso
 
-Pérez Velilla, A., Padilla, K. J., Cassiani Cervantes, D., Herrera, Y., Hernández, A., Hurtado Manyoma, A., Dalla Ragione, A., Ross, C. T. Speaking Against Extinction: Super-speakers and children as pillars of Palenquero language resilience.
+Pérez Velilla, A., Padilla, K. J., Cassiani Cervantes, D., Herrera, Y., Hernández, A., Hurtado Manyoma, A., Pérez Salinas, M., Sosa, S., Dalla Ragione, A., Ross, C. T. A full-population assessment of Palenquero proficiency in San Basilio de Palenque, Colombia.
 
-Pérez Velilla, A., Smaldino, P. The cultural group selection of optimal sharing norms.
+Pérez Velilla, A., Smaldino, P. Similarity-biased learning: a theory.
+
+Pérez Velilla, A., McElreath, R. Breaking the paradox: bet hedging and the evolutionary rationality of social learning.
 
 Pérez Velilla, A., Ready, E. The emergence of sharing networks through indirect signaling.
 
@@ -25,7 +27,7 @@ Pérez Velilla, A., Nöldeke, G., Peña, J. Reciprocity and the evolution of ris
 
 #### 2025
 
-Pérez Velilla, A., Beheim, B., & Smaldino, P. E. (2025, January 31). The development of risk attitudes and their cultural transmission. [SocArxiv](https://doi.org/10.31235/osf.io/9yjes_v2).
+Pérez Velilla, A., Beheim, B., & Smaldino, P. E. (2025). The development of risk behaviors and their cultural transmission. [SocArxiv](https://osf.io/preprints/socarxiv/9yjes_v3?view_only=).
 
 #### 2024
 

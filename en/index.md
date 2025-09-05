@@ -9,15 +9,17 @@ custom_css: "/assets/custom-page-styles.css"
 
 Welcome. I am an anthropologist and cognitive scientist with an interest in how learning, culture and environmental conditions affect the ways we make decisions. Some of the subjects I work on are social learning and cooperation under risk and uncertainty, the formation of social and economic networks within communities and the emergence and effects of generational trauma. My collaborators and I strive to combine game-theoretic and agent-based modeling along with long-term fieldwork in order to produce testable hypotheses about these subjects that can be contrasted with naturalistic data.
 
-![photo](/img/field_photo.png)
+<![photo](/img/field_photo.png)>
 
 ## Publications
 
 #### Work In Progress
 
-Pérez Velilla, A., Padilla, K. J., Cassiani Cervantes, D., Herrera, Y., Hernández, A., Hurtado Manyoma, A., Dalla Ragione, A., Ross, C. T. Speaking Against Extinction: Super-speakers and children as pillars of Palenquero language resilience.
+Pérez Velilla, A., Padilla, K. J., Cassiani Cervantes, D., Herrera, Y., Hernández, A., Hurtado Manyoma, A., Pérez Salinas, M., Sosa, S., Dalla Ragione, A., Ross, C. T. A full-population assessment of Palenquero proficiency in San Basilio de Palenque, Colombia.
 
-Pérez Velilla, A., Smaldino, P. The cultural group selection of optimal sharing norms.
+Pérez Velilla, A., Smaldino, P. Similarity-biased learning: a theory.
+
+Pérez Velilla, A., McElreath, R. Breaking the paradox: bet hedging and the evolutionary rationality of social learning.
 
 Pérez Velilla, A., Ready, E. The emergence of sharing networks through indirect signaling.
 
@@ -25,7 +27,7 @@ Pérez Velilla, A., Nöldeke, G., Peña, J. Reciprocity and the evolution of ris
 
 #### 2025
 
-Pérez Velilla, A., Beheim, B., & Smaldino, P. E. (2025, January 31). The development of risk attitudes and their cultural transmission. [SocArxiv](https://doi.org/10.31235/osf.io/9yjes_v2).
+Pérez Velilla, A., Beheim, B., & Smaldino, P. E. (2025). The development of risk behaviors and their cultural transmission. [SocArxiv](https://osf.io/preprints/socarxiv/9yjes_v3?view_only=).
 
 #### 2024
 
