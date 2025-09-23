@@ -7,7 +7,17 @@ custom_css: "/assets/custom-page-styles.css"
 
 ## Alejandro Pérez Velilla
 
-Welcome. I am a cognitive scientist with an anthropology background. I have a broad interest in how learning, culture and environmental conditions affect the ways we make decisions. Some of the subjects I work on are social learning and cooperation under risk and uncertainty, the formation of social and economic networks within communities and the emergence and effects of generational trauma. My collaborators and I strive to combine game-theoretic and agent-based modeling along with long-term fieldwork in order to produce testable hypotheses about these subjects that can be contrasted with naturalistic data.
+I am a PhD candidate at the Cognitive and Information Sciences department at University of California, Merced. I have a background in social and cultural Anthropology, and I am currently a Guest Researcher at the Department of Human Behavior, Ecology and Culture at the Max Planck Institute for Evolutionary Anthropology.
+
+I am broadly interested in the feedback between environment, culture and individual decision-making, with a particular interest in how material and social conditions, along with history, affect the ways in which people perceive and react to risk and uncertainty, in turn feeding back into the socioecological environment.
+
+Currently, my work is focused on three main subjects:
+
+1. The strategic use of social learning under environmental uncertainty.
+2. The inter-generational cultural persistence of responses to environmental shocks, commonly referred to as "generational trauma".
+3. The ways in which perceived risk can drive (or hinder) the emergence of cooperative norms, and how mechanisms such as reputation-building can serve as a scaffold for the persistence of these norms after perceived risks have disappeared.
+
+Methodologically speaking, I focus on building formal dynamic models of learning and strategic choice and using them to derive theoretically-robust testable hypotheses to be deployed in field and experimental research. I also specialize on the construction of causal inference schemes within a Bayesian framework, as well as simulation-based inference methods such as Approximate Bayesian Computation for likelihood-free inference with complex models.
 
 ![photo](/img/field_photo.png)
 
@@ -25,9 +35,13 @@ Pérez Velilla, A., Ready, E. The emergence of sharing networks through indirect
 
 Pérez Velilla, A., Nöldeke, G., Peña, J. Reciprocity and the evolution of risk-reduction sharing.
 
-#### 2025
+#### In press
 
-Pérez Velilla, A., Beheim, B., & Smaldino, P. E. (2025). The development of risk behaviors and their cultural transmission. [SocArxiv](https://osf.io/preprints/socarxiv/9yjes_v3?view_only=).
+Pérez Velilla, A., Beheim, B., & Smaldino, P. E. (In press). The development of risk behaviors and their cultural transmission. Psychological Review. American Psychological Association. Preprint at [SocArxiv](https://osf.io/preprints/socarxiv/9yjes_v3?view_only=).
+
+Pérez Velilla, A., Smaldino, P. (In press). Risk, learning and culture. In A. Gallup, S. Karitheyan, G. Geher. (Eds.) Oxford Handbook of Evolutionary Psychology. Oxford University Press.
+
+Pérez Velilla, A., Smaldino, P. The adaptive role of peer culture is shaped by risk landscapes. Commentary for target article Lew-Levy, S. \& Amir, D. (In press.) Children as agents of cultural adaptation. Behavioral and Brain Sciences. Cambridge University Press.}
 
 #### 2024
 
