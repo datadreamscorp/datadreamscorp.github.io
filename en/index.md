@@ -41,7 +41,7 @@ Pérez Velilla, A., Beheim, B., & Smaldino, P. E. (In press). The development of
 
 Pérez Velilla, A., Smaldino, P. (In press). Risk, learning and culture. In A. Gallup, S. Karitheyan, G. Geher. (Eds.) Oxford Handbook of Evolutionary Psychology. Oxford University Press.
 
-Pérez Velilla, A., Smaldino, P. The adaptive role of peer culture is shaped by risk landscapes. Commentary for target article Lew-Levy, S. \& Amir, D. (In press.) Children as agents of cultural adaptation. Behavioral and Brain Sciences. Cambridge University Press.}
+Pérez Velilla, A., Smaldino, P. The adaptive role of peer culture is shaped by risk landscapes. Commentary for target article Lew-Levy, S. \& Amir, D. (In press.) Children as agents of cultural adaptation. Behavioral and Brain Sciences. Cambridge University Press.
 
 #### 2024
 
