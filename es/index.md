@@ -7,9 +7,7 @@ custom_css: "/assets/custom-page-styles.css"
 
 ## Alejandro Pérez Velilla
 
-Soy doctorando en el departamento de Ciencias Cognitivas y de la Información de la Universidad de California, Merced. Tengo formación en Antropología social y cultural, y actualmente soy Investigador Invitado en el Departamento de Comportamiento Humano, Ecología y Cultura del Instituto Max Planck de Antropología Evolutiva.
-
-Estoy ampliamente interesado en la retroalimentación entre el entorno, la cultura y la toma de decisiones individual, con particular interés en cómo las condiciones materiales y sociales, junto con la historia, afectan las formas en que las personas perciben y reaccionan al riesgo y la incertidumbre, afectando a su vez el entorno socioecológico.
+Soy doctorando en el departamento de Ciencias Cognitivas y de la Información de la Universidad de California, Merced. Tengo formación en Antropología social y cultural, y estoy ampliamente interesado en la retroalimentación entre el entorno, la cultura y la toma de decisiones, con particular interés en cómo las condiciones materiales y sociales, junto con la historia, afectan las formas en que las personas perciben y reaccionan al riesgo y la incertidumbre, afectando a su vez el entorno socioecológico.
 
 Actualmente, mi trabajo se centra en tres temas principales:
 

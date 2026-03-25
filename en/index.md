@@ -7,9 +7,7 @@ custom_css: "/assets/custom-page-styles.css"
 
 ## Alejandro Pérez Velilla
 
-I am a PhD candidate at the Cognitive and Information Sciences department at University of California, Merced. I have a background in social and cultural Anthropology, and I am currently a Guest Researcher at the Department of Human Behavior, Ecology and Culture at the Max Planck Institute for Evolutionary Anthropology.
-
-I am broadly interested in the feedback between environment, culture and individual decision-making, with a particular interest in how material and social conditions, along with history, affect the ways in which people perceive and react to risk and uncertainty, in turn feeding back into the socioecological environment.
+I am a PhD candidate at the Cognitive and Information Sciences department at University of California, Merced. I have a background in social and cultural Anthropology, and I am broadly interested in the feedback between environment, culture and individual decision-making, with a particular interest in how material and social conditions, along with history, affect the ways in which people perceive and react to risk and uncertainty, in turn feeding back into the socioecological environment.
 
 Currently, my work is focused on three main subjects:
 
