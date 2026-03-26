@@ -21,25 +21,29 @@ Methodologically speaking, I focus on building formal dynamic models of learning
 
 ## Publications
 
-#### Work In Progress
+#### In Prep
 
 Pérez Velilla, A., Padilla, K. J., Cassiani Cervantes, D., Herrera, Y., Hernández, A., Hurtado Manyoma, A., Pérez Salinas, M., Sosa, S., Dalla Ragione, A., Ross, C. T. A full-population assessment of Palenquero proficiency in San Basilio de Palenque, Colombia.
 
-Pérez Velilla, A., Smaldino, P. Similarity-biased learning: a theory.
-
 Pérez Velilla, A., McElreath, R. Breaking the paradox: bet hedging and the evolutionary rationality of social learning.
-
-Pérez Velilla, A., Ready, E. The emergence of sharing networks through indirect signaling.
 
 Pérez Velilla, A., Nöldeke, G., Peña, J. Reciprocity and the evolution of risk-reduction sharing.
 
-#### In press
+#### Under Review
 
-Pérez Velilla, A., Beheim, B., & Smaldino, P. E. (In press). The development of risk behaviors and their cultural transmission. Psychological Review. American Psychological Association. Preprint at [SocArxiv](https://osf.io/preprints/socarxiv/9yjes_v3?view_only=).
+Pérez Velilla, A., Ready, E. The emergence of sharing networks through indirect signaling. Preprint at [SocArXiv](https://osf.io/preprints/socarxiv/6zfju_v1).
 
-Pérez Velilla, A., Smaldino, P. (In press). Risk, learning and culture. In A. Gallup, S. Karitheyan, G. Geher. (Eds.) Oxford Handbook of Evolutionary Psychology. Oxford University Press.
+Pérez Velilla, A., Smaldino, P. A demographic theory of similarity-biased social learning. Preprint at [SocArXiv](https://osf.io/preprints/socarxiv/3py9c_v1).
 
-Pérez Velilla, A., Smaldino, P. The adaptive role of peer culture is shaped by risk landscapes. Commentary for target article Lew-Levy, S. \& Amir, D. (In press.) Children as agents of cultural adaptation. Behavioral and Brain Sciences. Cambridge University Press.
+#### In Press
+
+Pérez Velilla, A., Smaldino, P. (In press). Risk, learning and culture. In A. Gallup, S. Karitheyan, G. Geher. (Eds.) Oxford Handbook of Evolutionary Psychology. Oxford University Press. Preprint at [SocArXiv](https://osf.io/preprints/socarxiv/fw26j_v1).
+
+Pérez Velilla, A., Smaldino, P. The adaptive role of peer culture is shaped by risk landscapes. Commentary for target article Lew-Levy, S. \& Amir, D. (In press.) Children as agents of cultural adaptation. Behavioral and Brain Sciences. Cambridge University Press. Preprint at [SocArXiv](https://osf.io/preprints/socarxiv/6hgsy_v1).
+
+#### 2025
+
+Pérez Velilla, A., Beheim, B., & Smaldino, P. E. (2025). The development of risk behaviors and their cultural transmission. Psychological Review. American Psychological Association. Preprint at [SocArXiv](https://osf.io/preprints/socarxiv/9yjes_v3?view_only=).
 
 #### 2024
 
