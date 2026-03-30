@@ -7,15 +7,9 @@ custom_css: "/assets/custom-page-styles.css"
 
 ## Alejandro Pérez Velilla
 
-I am a PhD candidate at the Cognitive and Information Sciences department at University of California, Merced. I have a background in social and cultural Anthropology, and I am broadly interested in the feedback between environment, culture and individual decision-making, with a particular interest in how material and social conditions, along with history, affect the ways in which people perceive and react to risk and uncertainty, in turn feeding back into the socioecological environment.
+I am a PhD candidate at the Cognitive and Information Sciences department at University of California, Merced. I have a background in social and cultural anthropology, and I am broadly interested in the feedback between environment, culture and individual decision-making, with a particular interest in how material and social conditions, along with history, affect the ways in which people perceive and react to risk and uncertainty, and how the beliefs and behaviors elicited from these reactions feed back into the material and cultural environment.
 
-Currently, my work is focused on three main subjects:
-
-1. The strategic use of social learning under environmental uncertainty.
-2. The inter-generational cultural persistence of responses to environmental shocks, commonly referred to as "generational trauma".
-3. The ways in which perceived risk can drive (or hinder) the emergence of cooperative norms, and how mechanisms such as reputation-building can serve as a scaffold for the persistence of these norms after perceived risks have disappeared.
-
-Methodologically speaking, I focus on building formal dynamic models of learning and strategic choice and using them to derive theoretically-robust testable hypotheses to be deployed in field and experimental research. I also specialize on the construction of causal inference schemes within a Bayesian framework, as well as simulation-based inference methods such as Approximate Bayesian Computation for likelihood-free inference with complex models.
+I focus on building formal dynamic models of learning and strategic choice and using them to derive theoretically-robust testable hypotheses to be deployed in field and experimental research. I also specialize on the construction of causal inference schemes within a Bayesian framework, as well as simulation-based inference methods such as Approximate Bayesian Computation for likelihood-free inference with complex models.
 
 ![photo](/img/field_photo.png)
 
