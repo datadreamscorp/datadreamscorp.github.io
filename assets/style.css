@@ -80,6 +80,7 @@ a {
     overflow: hidden;
     white-space: nowrap;
     padding: 7px 0;
+    -webkit-backdrop-filter: blur(2px);
     backdrop-filter: blur(2px);
 }
 
@@ -125,6 +126,7 @@ nav.bnav a {
     box-shadow: 5px 5px 0 var(--magenta);
     transition: transform 0.08s ease, box-shadow 0.08s ease;
     display: inline-block;
+    -webkit-backdrop-filter: blur(2px);
     backdrop-filter: blur(2px);
 }
 
@@ -260,6 +262,7 @@ h1.name {
     border: 2px solid var(--ink);
     box-shadow: 6px 6px 0 var(--magenta);
     padding: 16px 18px;
+    -webkit-backdrop-filter: blur(3px);
     backdrop-filter: blur(3px);
 }
 
@@ -385,7 +388,7 @@ button.shuffle-btn:active {
     text-decoration: none;
     color: var(--ink);
     border: 2px solid var(--ink);
-    padding: 5px 9px;
+    padding: 8px 10px;
     white-space: nowrap;
 }
 
@@ -396,7 +399,8 @@ button.shuffle-btn:active {
 }
 
 @media (max-width: 560px) {
-    .pub-card { grid-template-columns: 46px 1fr; }
+    .pub-card { grid-template-columns: 54px 1fr; }
+    .pub-year { font-size: 1.15em; }
     .pub-link { grid-column: 1 / -1; justify-self: start; }
     .hero { grid-template-columns: 110px 1fr; }
     h1.name { font-size: 1.7em; }
@@ -406,6 +410,7 @@ button.shuffle-btn:active {
 
 .terminal-box {
     background: rgba(3, 4, 5, 0.68);
+    -webkit-backdrop-filter: blur(4px);
     backdrop-filter: blur(4px);
     border: 2px solid var(--term-green);
     box-shadow: 8px 8px 0 var(--magenta);
@@ -521,6 +526,7 @@ footer.bfoot {
     justify-content: space-between;
     flex-wrap: wrap;
     gap: 14px;
+    -webkit-backdrop-filter: blur(2px);
     backdrop-filter: blur(2px);
 }
 
