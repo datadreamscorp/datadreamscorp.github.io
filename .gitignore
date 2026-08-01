@@ -1,0 +1,15 @@
+# Raw reference art (Neuromancer / Serial Experiments Lain) used only as local
+# source material for the processed/derivative backdrops in img/bg-*.jpg.
+# Never commit the originals — only the processed derivatives are ours to host.
+img/neuro.jpg
+img/neuro2.jpg
+img/neuro3.png
+img/lain.jpg
+img/lain2.jpg
+
+# Local Jekyll build artifacts (from `bundle exec jekyll serve`)
+_site/
+.jekyll-cache/
+.jekyll-metadata
+vendor/
+

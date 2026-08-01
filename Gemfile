@@ -1,0 +1,8 @@
+# frozen_string_literal: true
+
+source "https://rubygems.org"
+
+# gem "rails"
+
+gem "jekyll-theme-cayman", "~> 0.2.0"
+gem "jekyll-relative-links", "~> 0.8.0"

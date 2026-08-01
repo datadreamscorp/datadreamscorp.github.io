@@ -1,28 +1,49 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang }}">
+<html lang="{{ page.lang | default: site.lang }}">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ page.title }}</title>
+    <meta name="description" content="Alejandro Pérez Velilla — PhD, Cognitive and Information Sciences. Researcher in Cooperative Intelligence.">
+    <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Crect width='100' height='100' fill='%230b0a0d'/%3E%3Ctext x='14' y='78' font-size='72' fill='%23ffe000' font-family='monospace,Courier'%3E%3E%3C/text%3E%3C/svg%3E">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=IBM+Plex+Mono:wght@400;600&family=Share+Tech+Mono&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
-    {% if page.landing_page %}
-    <link rel="stylesheet" href="{{ '/assets/landing.css' | relative_url }}">
-    {% endif %}
-    {% if page.custom_css %}
-    <link rel="stylesheet" href="{{ page.custom_css | relative_url }}">
-    {% endif %}
 </head>
 <body>
-    <nav>
-        <ul>
-            <li><a href="{{ site.baseurl }}/en/index.html">English</a></li>
-            <li><a href="{{ site.baseurl }}/es/index.html">Español</a></li>
-        </ul>
-    </nav>
+    <div class="backdrop" style="background-image: url('{{ page.backdrop | relative_url }}');">
+        <div class="wrap">
 
-    <div class="content">
-        {{ content }}
+            <div class="ticker-cell">
+                <span class="ticker-track">{% if page.lang == 'es' %}*** NUEVO ARTÍCULO EN PNAS: "A DEMOGRAPHIC THEORY OF SIMILARITY-BIASED SOCIAL LEARNING" *** SITIO EN CONSTRUCCIÓN PERPETUA *** GRACIAS POR VISITAR ***{% else %}*** NEW PAPER IN PNAS: "A DEMOGRAPHIC THEORY OF SIMILARITY-BIASED SOCIAL LEARNING" *** SITE PERPETUALLY UNDER CONSTRUCTION *** THANKS FOR STOPPING BY ***{% endif %}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+            </div>
+
+            <nav class="bnav">
+                <a href="{{ site.baseurl }}/">HOME</a>
+                <a href="{{ site.baseurl }}/en/index.html">EN</a>
+                <a href="{{ site.baseurl }}/es/index.html">ES</a>
+                <a href="{{ site.baseurl }}/{{ page.lang | default: 'en' }}/publications.html">{% if page.lang == 'es' %}PUBLICACIONES{% else %}PUBLICATIONS{% endif %}</a>
+                <a href="{{ site.baseurl }}/{{ page.lang | default: 'en' }}/contact.html">{% if page.lang == 'es' %}CONTACTO{% else %}CONTACT{% endif %}</a>
+            </nav>
+
+            <div class="page-content">
+                {{ content }}
+            </div>
+
+            <footer class="bfoot">
+                <div class="counter">
+                    <span>{% if page.lang == 'es' %}VISITANTES{% else %}VISITORS{% endif %}</span>
+                    <span class="digits">004217</span>
+                </div>
+                <div class="badges">
+                    <span>&#9733; WEBRING &#9733;</span>
+                    <span>GUESTBOOK</span>
+                    <span>800&times;600</span>
+                </div>
+            </footer>
+
+        </div>
     </div>
 </body>
 </html>
-

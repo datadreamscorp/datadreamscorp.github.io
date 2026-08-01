@@ -1,12 +1,11 @@
 ---
 layout: default
 title: Alejandro Pérez Velilla
-landing_page: true
+backdrop: /img/bg-landing.jpg
 ---
 
-<div class="landing-container">
-    <div class="text-and-image">
-        <h2>Alejandro Pérez Velilla</h2>
-        <img src="{{ '/img/landing_photo.png' | relative_url }}" alt="Alejandro">
-    </div>
+<div class="hero-centered">
+    <span class="role">PhD, Cognitive &amp; Information Sciences — Researcher in Cooperative Intelligence</span>
+    <h1 class="name">Alejandro<br>Pérez Velilla</h1>
+    <p class="tagline">Learning, risk, and cultural evolution — formal models, field data, and simulation-based inference.</p>
 </div>

@@ -1,60 +1,36 @@
 ---
 layout: default
-title: "anthrocult"
+title: "Alejandro Pérez Velilla"
 lang: es
-custom_css: "/assets/custom-page-styles.css"
+backdrop: /img/bg-main.jpg
 ---
 
-## Alejandro Pérez Velilla
+<div class="hero hero-photo-large">
+    <div class="photo-stamp">
+        <img src="{{ '/img/new_webpic.jpeg' | relative_url }}" alt="Alejandro Pérez Velilla">
+    </div>
+    <div class="panel">
+        <p>Tengo un doctorado en Ciencias Cognitivas y de la Información de la Universidad de California, Merced, y actualmente soy Research Fellow en la Facultad de Computación de la Universidad Nacional de Singapur (NUS). Tengo formación en Antropología social y cultural de la Universidad de Buenos Aires, y estoy ampliamente interesado en la retroalimentación entre el entorno, la cultura y la toma de decisiones individual — y cómo esta retroalimentación conduce a la evolución, persistencia y/o colapso de las instituciones culturales que sostienen la cooperación en las comunidades humanas. En NUS — como miembro del <a href="https://cosilab.github.io">CoSI Lab</a> — trabajo en aplicaciones inspiradas en la evolución cultural para el desarrollo de sistemas de IA cooperativos y culturalmente alineados.</p>
+        <p>También soy miembro del grupo de investigación <a href="https://sanguatsiniq.github.io/">Sanguatsiniq</a> y de <a href="https://antropocaos.com.ar/">Antropocaos</a>.</p>
+    </div>
+</div>
 
-Soy doctorando en el departamento de Ciencias Cognitivas y de la Información de la Universidad de California, Merced. Tengo formación en Antropología social y cultural, y estoy ampliamente interesado en la retroalimentación entre el entorno, la cultura y la toma de decisiones, con particular interés en cómo las condiciones materiales y sociales, junto con la historia, afectan las formas en que las personas perciben y reaccionan al riesgo y la incertidumbre, afectando a su vez el entorno socioecológico.
+<div class="section-head">
+    <h2 class="section">Publicaciones al Azar</h2>
+    <button id="shuffle" class="shuffle-btn" type="button">&#8635; aleatorio</button>
+</div>
+<div class="pub-list" id="pub-list"></div>
+<p style="font-family: var(--font-mono); font-size: 0.8em; color: var(--ink-dim);">Ver la <a href="{{ '/es/publications.html' | relative_url }}">lista completa de publicaciones</a>, o <a href="{{ '/docs/CV.pdf' | relative_url }}">descargar mi CV</a>.</p>
 
-Actualmente, mi trabajo se centra en tres temas principales:
+<div class="section-head">
+    <h2 class="section">Contacto</h2>
+</div>
+<div class="panel">
+    <p>
+        aperezvelilla@ucmerced.edu<br>
+        <a href="https://github.com/datadreamscorp">github.com/datadreamscorp</a><br>
+        <a href="{{ '/es/contact.html' | relative_url }}">formulario de contacto &rarr;</a>
+    </p>
+</div>
 
-1. El uso estratégico del aprendizaje social bajo incertidumbre ambiental.
-
-2. La persistencia cultural intergeneracional de respuestas a choques ambientales, comúnmente conocida como “trauma generacional”.
-
-3. Las formas en que la percepción del riesgo puede impulsar (o dificultar) la emergencia de normas cooperativas, y cómo mecanismos como la construcción de reputación pueden servir de andamiaje para la persistencia de estas normas después de que los riesgos percibidos hayan desaparecido.
-
-En términos metodológicos, me concentro en la construcción de modelos dinámicos formales de aprendizaje y elección estratégica, y en utilizarlos para derivar hipótesis falsificables y teóricamente sólidas, que puedan ponerse a prueba en investigación de campo y experimental. También me especializo en la construcción de esquemas de inferencia causal dentro de un marco bayesiano, así como en métodos de inferencia basados en simulación, como la Computación Bayesiana Aproximada (ABC) para inferencia con modelos complejos.
-
-![photo](/img/field_photo.png)
-
-## Publicaciones
-
-#### En progreso
-
-Pérez Velilla, A., Padilla, K. J., Cassiani Cervantes, D., Herrera, Y., Hernández, A., Hurtado Manyoma, A., Pérez Salinas, M., Sosa, S., Dalla Ragione, A., Ross, C. T. A full-population assessment of Palenquero proficiency in San Basilio de Palenque, Colombia.
-
-Pérez Velilla, A., Smaldino, P. Similarity-biased learning: a theory.
-
-Pérez Velilla, A., McElreath, R. Breaking the paradox: bet hedging and the evolutionary rationality of social learning.
-
-Pérez Velilla, A., Ready, E. The emergence of sharing networks through indirect signaling.
-
-Pérez Velilla, A., Nöldeke, G., Peña, J. Reciprocity and the evolution of risk-reduction sharing.
-
-#### En impresión
-
-Pérez Velilla, A., Beheim, B., & Smaldino, P. E. (In press). The development of risk behaviors and their cultural transmission. Psychological Review. American Psychological Association. Preprint aquí: [SocArxiv](https://osf.io/preprints/socarxiv/9yjes_v3?view_only=).
-
-Pérez Velilla, A., Smaldino, P. (In press). Risk, learning and culture. In A. Gallup, S. Karitheyan, G. Geher. (Eds.) Oxford Handbook of Evolutionary Psychology. Oxford University Press.
-
-Pérez Velilla, A., Smaldino, P. The adaptive role of peer culture is shaped by risk landscapes. Commentary for target article Lew-Levy, S. \& Amir, D. (In press.) Children as agents of cultural adaptation. Behavioral and Brain Sciences. Cambridge University Press.
-
-#### 2024
-
-Smaldino, P. E., Pérez Velilla, A. The evolution of similarity-biased social learning. Evolutionary Human Sciences. 2025;7:e4. doi:10.1017/ehs.2024.46 
-
-Smaldino, P. E., Moser, C., Pérez Velilla, A., & Werling, M. (2024). Maintaining transient diversity is a general principle for improving collective problem solving. Perspectives on Psychological Science, 19(2), 454-464.
-
-#### 2022
-Pérez Velilla, A., Moser, C. J., & Smaldino, P. E. (2022). Hidden clusters beyond ethnic boundaries. Behavioral & Brain Sciences.
-
-## Contacto
-
-aperezvelilla@ucmerced.edu  
-[github](https://github.com/datadreamscorp)
-
-[cv](/docs/CV.pdf)
+<script src="{{ '/assets/pubs.js' | relative_url }}"></script>
