@@ -108,6 +108,7 @@ a {
 
 nav.bnav {
     display: flex;
+    justify-content: space-between;
     gap: 10px;
     margin: 22px 0 46px;
     flex-wrap: wrap;
