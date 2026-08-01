@@ -109,7 +109,7 @@ a {
 nav.bnav {
     display: flex;
     justify-content: space-between;
-    gap: 10px;
+    gap: clamp(4px, 1.3vw, 10px);
     margin: 22px 0 46px;
     flex-wrap: wrap;
 }
@@ -117,16 +117,17 @@ nav.bnav {
 nav.bnav a {
     font-family: var(--font-mono);
     font-weight: 600;
-    font-size: 0.8em;
+    font-size: clamp(0.58em, 2.5vw, 0.8em);
     letter-spacing: 0.06em;
     text-decoration: none;
     color: var(--ink);
     background: rgba(11, 10, 13, 0.6);
     border: 2px solid var(--ink);
-    padding: 8px 14px;
+    padding: clamp(5px, 1.8vw, 8px) clamp(6px, 2.2vw, 14px);
     box-shadow: 5px 5px 0 var(--magenta);
     transition: transform 0.08s ease, box-shadow 0.08s ease;
     display: inline-block;
+    white-space: nowrap;
     -webkit-backdrop-filter: blur(2px);
     backdrop-filter: blur(2px);
 }
