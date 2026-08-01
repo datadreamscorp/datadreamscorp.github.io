@@ -33,8 +33,6 @@ backdrop: /img/bg-contact.jpg
             <button type="submit" class="term-submit">[ send ]</button>
         </form>
 
-        <p class="term-note">Submitting opens your email client with this message pre-filled — nothing is sent from this page directly.</p>
-
         <p class="term-links prompt">or reach me directly: <a href="mailto:aperezvelilla@ucmerced.edu">aperezvelilla@ucmerced.edu</a> &middot; <a href="https://github.com/datadreamscorp">github.com/datadreamscorp</a></p>
     </div>
 </div>

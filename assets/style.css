@@ -509,12 +509,6 @@ button.shuffle-btn:active {
     color: #000;
 }
 
-.term-note {
-    font-size: 0.75em;
-    color: var(--term-green-dim);
-    margin-top: 14px;
-}
-
 .term-links {
     font-size: 0.85em;
 }

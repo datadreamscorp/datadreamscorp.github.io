@@ -33,8 +33,6 @@ backdrop: /img/bg-contact.jpg
             <button type="submit" class="term-submit">[ enviar ]</button>
         </form>
 
-        <p class="term-note">Al enviar se abrirá tu cliente de correo con este mensaje ya escrito — nada se envía directamente desde esta página.</p>
-
         <p class="term-links prompt">o escríbeme directamente: <a href="mailto:aperezvelilla@ucmerced.edu">aperezvelilla@ucmerced.edu</a> &middot; <a href="https://github.com/datadreamscorp">github.com/datadreamscorp</a></p>
     </div>
 </div>
