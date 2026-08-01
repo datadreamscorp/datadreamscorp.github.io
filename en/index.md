@@ -17,7 +17,7 @@ backdrop: /img/bg-main.jpg
 </div>
 
 <div class="section-head">
-    <h2 class="section">Random Publications</h2>
+    <h2 class="section">Publication Lottery</h2>
     <button id="shuffle" class="shuffle-btn" type="button">&#8635; shuffle</button>
 </div>
 <div class="pub-list" id="pub-list"></div>
