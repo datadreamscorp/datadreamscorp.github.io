@@ -143,6 +143,11 @@ nav.bnav a:focus-visible {
     outline: none;
 }
 
+@media (max-width: 480px) {
+    nav.bnav { gap: 6px; margin: 16px 0 32px; }
+    nav.bnav a { font-size: 0.64em; padding: 6px 8px; letter-spacing: 0.02em; }
+}
+
 .page-content {
     flex: 1;
 }
@@ -318,6 +323,7 @@ h1.name {
 
 @media (max-width: 640px) {
     .hero-centered h1.name { font-size: 2.6em; }
+    .hero-centered h1.name .surname { font-size: 0.72em; }
 }
 
 /* ---------- shuffle button ---------- */
@@ -535,6 +541,10 @@ footer.bfoot {
     backdrop-filter: blur(2px);
 }
 
+@media (max-width: 520px) {
+    footer.bfoot { justify-content: flex-start; }
+}
+
 .counter {
     display: flex;
     align-items: center;
@@ -559,6 +569,7 @@ footer.bfoot {
 
 .badges {
     display: flex;
+    justify-content: flex-start;
     gap: 8px;
     flex-wrap: wrap;
 }
