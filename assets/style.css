@@ -514,7 +514,8 @@ button.shuffle-btn:active {
     overflow: hidden;
     white-space: nowrap;
     vertical-align: bottom;
-    border-right: 2px solid var(--term-green);
+    line-height: 1.15;
+    border-right: 0.55em solid var(--term-green);
 }
 
 .typewriter.tw-en {
