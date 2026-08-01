@@ -2,6 +2,7 @@
 layout: default
 title: "Publicaciones — Alejandro Pérez Velilla"
 lang: es
+page_type: publications
 backdrop: /img/bg-publications.jpg
 ---
 

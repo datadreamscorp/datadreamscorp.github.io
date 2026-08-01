@@ -19,12 +19,33 @@
                 <span class="ticker-track">{% if page.lang == 'es' %}*** NUEVO ARTÍCULO EN PNAS: "A DEMOGRAPHIC THEORY OF SIMILARITY-BIASED SOCIAL LEARNING" *** SITIO EN CONSTRUCCIÓN PERPETUA *** GRACIAS POR VISITAR ***{% else %}*** NEW PAPER IN PNAS: "A DEMOGRAPHIC THEORY OF SIMILARITY-BIASED SOCIAL LEARNING" *** SITE PERPETUALLY UNDER CONSTRUCTION *** THANKS FOR STOPPING BY ***{% endif %}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
             </div>
 
+            {% case page.page_type %}
+                {% when 'landing' %}
+                    {% assign nav_en_url = '/' %}
+                    {% assign nav_es_url = '/es/landing.html' %}
+                {% when 'publications' %}
+                    {% assign nav_en_url = '/en/publications.html' %}
+                    {% assign nav_es_url = '/es/publications.html' %}
+                {% when 'contact' %}
+                    {% assign nav_en_url = '/en/contact.html' %}
+                    {% assign nav_es_url = '/es/contact.html' %}
+                {% else %}
+                    {% assign nav_en_url = '/en/index.html' %}
+                    {% assign nav_es_url = '/es/index.html' %}
+            {% endcase %}
+            {% if page.lang == 'es' %}
+                {% assign landing_url = '/es/landing.html' %}
+            {% else %}
+                {% assign landing_url = '/' %}
+            {% endif %}
+
             <nav class="bnav">
-                <a href="{{ site.baseurl }}/">HOME</a>
-                <a href="{{ site.baseurl }}/en/index.html">EN</a>
-                <a href="{{ site.baseurl }}/es/index.html">ES</a>
+                <a href="{{ site.baseurl }}{{ landing_url }}">{% if page.lang == 'es' %}INICIO{% else %}LANDING{% endif %}</a>
+                <a href="{{ site.baseurl }}/{{ page.lang | default: 'en' }}/index.html">HOME</a>
                 <a href="{{ site.baseurl }}/{{ page.lang | default: 'en' }}/publications.html">{% if page.lang == 'es' %}PUBLICACIONES{% else %}PUBLICATIONS{% endif %}</a>
                 <a href="{{ site.baseurl }}/{{ page.lang | default: 'en' }}/contact.html">{% if page.lang == 'es' %}CONTACTO{% else %}CONTACT{% endif %}</a>
+                <a href="{{ site.baseurl }}{{ nav_en_url }}" class="lang-toggle">EN</a>
+                <a href="{{ site.baseurl }}{{ nav_es_url }}" class="lang-toggle">ES</a>
             </nav>
 
             <div class="page-content">

@@ -2,6 +2,7 @@
 layout: default
 title: "Contacto — Alejandro Pérez Velilla"
 lang: es
+page_type: contact
 backdrop: /img/bg-contact.jpg
 ---
 
@@ -15,7 +16,7 @@ backdrop: /img/bg-contact.jpg
         <span>[EN LÍNEA]</span>
     </div>
     <div class="term-body">
-        <p class="prompt">inicializando cliente de mensajes...</p>
+        <p class="prompt typewriter tw-es">inicializando cliente de mensajes...</p>
 
         <form id="term-contact-form" data-to="aperezvelilla@ucmerced.edu">
             <div class="term-field">

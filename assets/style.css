@@ -510,8 +510,49 @@ button.shuffle-btn:active {
     color: #000;
 }
 
-.term-links {
+.typewriter {
+    display: inline-block;
+    overflow: hidden;
+    white-space: nowrap;
+    vertical-align: bottom;
+    border-right: 2px solid var(--term-green);
+}
+
+.typewriter.tw-en {
+    animation: typing-en 1.6s steps(32, end) forwards, blink-caret 0.8s step-end infinite;
+}
+
+.typewriter.tw-es {
+    animation: typing-es 1.9s steps(38, end) forwards, blink-caret 0.8s step-end infinite;
+}
+
+@keyframes typing-en {
+    from { width: 0; }
+    to { width: 32ch; }
+}
+
+@keyframes typing-es {
+    from { width: 0; }
+    to { width: 38ch; }
+}
+
+@keyframes blink-caret {
+    50% { border-color: transparent; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+    .typewriter {
+        animation: none;
+        width: auto;
+        overflow: visible;
+        white-space: normal;
+        border-right: none;
+    }
+}
+
+.terminal-box p.term-links {
     font-size: 0.85em;
+    margin-top: 26px;
 }
 
 .term-links a {

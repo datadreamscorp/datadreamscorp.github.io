@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Alejandro Pérez Velilla
+lang: en
+page_type: landing
 backdrop: /img/bg-landing.jpg
 ---
 

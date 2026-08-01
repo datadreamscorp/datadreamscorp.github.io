@@ -2,6 +2,7 @@
 layout: default
 title: "Alejandro Pérez Velilla"
 lang: es
+page_type: home
 backdrop: /img/bg-main.jpg
 ---
 
@@ -21,16 +22,5 @@ backdrop: /img/bg-main.jpg
 </div>
 <div class="pub-list" id="pub-list"></div>
 <p style="font-family: var(--font-mono); font-size: 0.8em; color: var(--ink-dim);">Ver la <a href="{{ '/es/publications.html' | relative_url }}">lista completa de publicaciones</a>, o <a href="{{ '/docs/CV.pdf' | relative_url }}">descargar mi CV</a>.</p>
-
-<div class="section-head">
-    <h2 class="section">Contacto</h2>
-</div>
-<div class="panel">
-    <p>
-        aperezvelilla@ucmerced.edu<br>
-        <a href="https://github.com/datadreamscorp">github.com/datadreamscorp</a><br>
-        <a href="{{ '/es/contact.html' | relative_url }}">formulario de contacto &rarr;</a>
-    </p>
-</div>
 
 <script src="{{ '/assets/pubs.js' | relative_url }}"></script>
