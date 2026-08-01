@@ -34,7 +34,7 @@ backdrop: /img/bg-contact.jpg
             <button type="submit" class="term-submit">[ enviar ]</button>
         </form>
 
-        <p class="term-links prompt">o escríbeme directamente: <a href="mailto:aperezvelilla@ucmerced.edu">aperezvelilla@ucmerced.edu</a> &middot; <a href="https://github.com/datadreamscorp">github.com/datadreamscorp</a> &middot; <a href="https://bsky.app/profile/apvelilla.bsky.social">bsky/apvelilla</a></p>
+        <p class="term-links prompt">o escríbeme directamente: <a href="mailto:aperezvelilla@ucmerced.edu">aperezvelilla@ucmerced.edu</a> &middot; <a href="https://github.com/datadreamscorp">github.com/datadreamscorp</a> &middot; <a href="https://bsky.app/profile/apvelilla.bsky.social">bsky/apvelilla</a> &middot; <a href="https://www.linkedin.com/in/alejandro-p%C3%A9rez-velilla-a03b6725b/">linkedin</a></p>
     </div>
 </div>
 
