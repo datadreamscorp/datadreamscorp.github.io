@@ -542,7 +542,7 @@ footer.bfoot {
 }
 
 @media (max-width: 520px) {
-    footer.bfoot { justify-content: flex-start; }
+    footer.bfoot { justify-content: flex-end; }
 }
 
 .counter {
