@@ -302,6 +302,11 @@ h1.name {
     text-shadow: 6px 6px 0 rgba(0, 0, 0, 0.6);
 }
 
+.hero-centered h1.name .surname {
+    display: block;
+    margin-top: 0.12em;
+}
+
 .tagline {
     max-width: 46ch;
     font-family: var(--font-mono);
