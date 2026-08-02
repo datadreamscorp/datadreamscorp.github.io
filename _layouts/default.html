@@ -58,7 +58,7 @@
             <footer class="bfoot">
                 <div class="counter">
                     <span>{% if page.lang == 'es' %}VISITANTES{% else %}VISITORS{% endif %}</span>
-                    <span class="digits">004217</span>
+                    <span class="digits" data-landing="{% if page.page_type == 'landing' %}true{% else %}false{% endif %}">004217</span>
                 </div>
                 <div class="badges">
                     <span>EYES OPEN</span>
